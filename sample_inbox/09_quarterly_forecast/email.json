@@ -1,0 +1,7 @@
+{
+  "from": "cfo.office@bluebird.example.com",
+  "subject": "Q1 forecast",
+  "body": "We need a full quarterly forecast analysis across all regions and product lines for the board deck.",
+  "thread_id": "T-800",
+  "received_at": "2026-11-09T13:00:00Z"
+}

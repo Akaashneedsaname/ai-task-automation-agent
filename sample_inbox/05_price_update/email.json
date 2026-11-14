@@ -1,0 +1,7 @@
+{
+  "from": "sam.okafor@bluebird.example.com",
+  "subject": "Price change for BB-104",
+  "body": "Please update the price of SKU BB-104 to $27.99 in the attached price list, effective Monday.",
+  "thread_id": "T-400",
+  "received_at": "2026-11-09T11:00:00Z"
+}

@@ -1,0 +1,7 @@
+{
+  "from": "billing@acme-parts.example.com",
+  "subject": "Invoice INV-2041 for October",
+  "body": "Please find attached invoice INV-2041. Payment is due within 30 days.",
+  "thread_id": "T-200",
+  "received_at": "2026-11-09T10:00:00Z"
+}

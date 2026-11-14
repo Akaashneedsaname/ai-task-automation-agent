@@ -1,0 +1,13 @@
+INVOICE INV-2041
+Vendor: Acme Parts Ltd.
+Date: 2026-11-03
+Due: 2026-12-03
+
+Lines:
+Tent pole set | 40 | 12.50
+Stove gas valve | 25 | 8.20
+Pack buckle (10 pack) | 30 | 4.75
+
+Subtotal: $867.50
+Tax: $69.40
+Total: $936.90

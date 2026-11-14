@@ -1,0 +1,7 @@
+{
+  "from": "maria.lopez@bluebird.example.com",
+  "subject": "Warehouse sync",
+  "body": "Please schedule a meeting with the warehouse team next Tuesday at 10am to go over the holiday stock plan.",
+  "thread_id": "T-600",
+  "received_at": "2026-11-09T12:00:00Z"
+}

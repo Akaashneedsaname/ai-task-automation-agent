@@ -1,0 +1,15 @@
+# Watcher + API sharing one runtime volume. Drop task folders into ./runtime/inbox.
+services:
+  watcher:
+    build: .
+    command: python -m task_agent watch
+    env_file: [.env]
+    volumes: ["./runtime:/app/runtime"]
+    restart: unless-stopped
+  api:
+    build: .
+    command: uvicorn --factory task_agent.api:create_app --host 0.0.0.0 --port 8000
+    env_file: [.env]
+    volumes: ["./runtime:/app/runtime"]
+    ports: ["8000:8000"]
+    restart: unless-stopped

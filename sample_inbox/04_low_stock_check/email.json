@@ -1,0 +1,7 @@
+{
+  "from": "sam.okafor@bluebird.example.com",
+  "subject": "Which items need reordering?",
+  "body": "Can you check the attached inventory export and tell me what's below the reorder point?",
+  "thread_id": "T-300",
+  "received_at": "2026-11-09T10:30:00Z"
+}
